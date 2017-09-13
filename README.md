@@ -1,5 +1,5 @@
 # fixed-tooltip
-JavaScript tooltip library. Makes tooltips positioned outside overflowed elements. Creates the tooltip at the end of the body, and moves as positioned element next to target. When you have a overflowed container, and You want to user tooltip for any element in this container, this plugin helps You with that.
+JavaScript tooltip library. Makes tooltips positioned outside overflowed elements. Creates the tooltip at the end of the body, and moves as positioned element next to target. When you have a overflowed container, and You want to use tooltip for any element in this container, this plugin helps You with out.
 
 ## Usage
 
